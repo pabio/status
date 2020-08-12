@@ -1,50 +1,42 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Koj.co",
+    "url": "https://koj.co",
+    "slug": "koj-co",
     "status": "up",
     "uptime": "100.00",
-    "time": 102
+    "time": 311
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "Koj Analytics",
+    "url": "https://analytics.koj.co",
+    "slug": "koj-analytics",
     "status": "up",
     "uptime": "100.00",
-    "time": 121
+    "time": 430
   },
   {
-    "name": "Internet Archive",
-    "url": "https://archive.org",
-    "slug": "internet-archive",
+    "name": "Koj API",
+    "url": "https://api.koj.co",
+    "slug": "koj-api",
     "status": "up",
     "uptime": "100.00",
-    "time": 561
+    "time": 424
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "Go.Koj",
+    "url": "https://go.koj.co",
+    "slug": "go-koj",
     "status": "up",
     "uptime": "100.00",
-    "time": 425
+    "time": 264
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "0.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
+    "name": "Koj CDN",
+    "url": "https://kojcdn.com",
+    "slug": "koj-cdn",
     "status": "up",
     "uptime": "100.00",
-    "time": 35
+    "time": 942
   }
 ]
