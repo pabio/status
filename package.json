@@ -8,6 +8,7 @@
     "update": "ts-node update.ts",
     "update-with-commit": "ts-node update.ts commit",
     "graphs": "ts-node graph.ts",
+    "update-template": "update-template https://github.com/koj-co/upptime",
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -46,6 +47,7 @@
     "fs-extra": "^9.0.1",
     "js-yaml": "^3.14.0",
     "node-libcurl": "^2.2.0",
+    "update-template": "^1.0.1",
     "upptime": "0.0.0"
   }
 }
