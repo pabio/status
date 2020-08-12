@@ -6,20 +6,19 @@
 [![Summary CI](https://github.com/koj-co/status/workflows/Summary%20CI/badge.svg)](https://github.com/koj-co/status/actions?query=workflow%3A%22Summary+CI%22)
 [![Uptime CI](https://github.com/koj-co/status/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/status/actions?query=workflow%3A%22Uptime+CI%22)
 
-Live status: <!--live status--> **🟨 Partial outage**
+Live status: <!--live status--> **🟩 All systems operational**
 
 ## [📈 Status](https://status.koj.co)
 
 <!--start: status pages-->
 
-| URL                                             | Status  | History                                                                                              | Response Time                                                                         | Uptime  |
-| ----------------------------------------------- | ------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------- |
-| [Google](https://www.google.com)                | 🟩 Up   | [google.yml](https://github.com/koj-co/status/commits/master/history/google.yml)                     | <img alt="Response time graph" src="./graphs/google.png" height="20"> 102ms           | 100.00% |
-| [Wikipedia](https://en.wikipedia.org)           | 🟩 Up   | [wikipedia.yml](https://github.com/koj-co/status/commits/master/history/wikipedia.yml)               | <img alt="Response time graph" src="./graphs/wikipedia.png" height="20"> 121ms        | 100.00% |
-| [Internet Archive](https://archive.org)         | 🟩 Up   | [internet-archive.yml](https://github.com/koj-co/status/commits/master/history/internet-archive.yml) | <img alt="Response time graph" src="./graphs/internet-archive.png" height="20"> 561ms | 100.00% |
-| [Hacker News](https://news.ycombinator.com)     | 🟩 Up   | [hacker-news.yml](https://github.com/koj-co/status/commits/master/history/hacker-news.yml)           | <img alt="Response time graph" src="./graphs/hacker-news.png" height="20"> 425ms      | 100.00% |
-| [Broken Site](https://thissitedoesnotexist.com) | 🟥 Down | [broken-site.yml](https://github.com/koj-co/status/commits/master/history/broken-site.yml)           | <img alt="Response time graph" src="./graphs/broken-site.png" height="20"> 0ms        | 0.00%   |
-| Secret Site                                     | 🟩 Up   | [secret-site.yml](https://github.com/koj-co/status/commits/master/history/secret-site.yml)           | <img alt="Response time graph" src="./graphs/secret-site.png" height="20"> 35ms       | 100.00% |
+| URL | Status | History | Response Time | Uptime |
+| --- | ------ | ------- | ------------- | ------ |
+| [Koj.co](https://koj.co) | 🟩 Up | [koj-co.yml](https://github.com/koj-co/status/commits/master/history/koj-co.yml) | <img alt="Response time graph" src="./graphs/koj-co.png" height="20"> 311ms | 100.00%
+| [Koj Analytics](https://analytics.koj.co) | 🟩 Up | [koj-analytics.yml](https://github.com/koj-co/status/commits/master/history/koj-analytics.yml) | <img alt="Response time graph" src="./graphs/koj-analytics.png" height="20"> 430ms | 100.00%
+| [Koj API](https://api.koj.co) | 🟩 Up | [koj-api.yml](https://github.com/koj-co/status/commits/master/history/koj-api.yml) | <img alt="Response time graph" src="./graphs/koj-api.png" height="20"> 424ms | 100.00%
+| [Go.Koj](https://go.koj.co) | 🟩 Up | [go-koj.yml](https://github.com/koj-co/status/commits/master/history/go-koj.yml) | <img alt="Response time graph" src="./graphs/go-koj.png" height="20"> 264ms | 100.00%
+| [Koj CDN](https://kojcdn.com) | 🟩 Up | [koj-cdn.yml](https://github.com/koj-co/status/commits/master/history/koj-cdn.yml) | <img alt="Response time graph" src="./graphs/koj-cdn.png" height="20"> 942ms | 100.00%
 
 <!--end: status pages-->
 
