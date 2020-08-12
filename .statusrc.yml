@@ -1,24 +1,20 @@
 owner: koj-co
-repo: upptime
+repo: status
 user-agent: KojBot
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Internet Archive
-    url: https://archive.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Koj.co
+    url: https://koj.co
+  - name: Koj Analytics
+    url: https://analytics.koj.co
+  - name: Koj API
+    url: https://api.koj.co
+  - name: Go.Koj
+    url: https://go.koj.co
+  - name: Koj CDN
+    url: https://kojcdn.com
 assignees:
   - AnandChowdhary
 status-website:
-  cname: upptime.js.org
-  logoUrl: https://raw.githubusercontent.com/koj-co/upptime/79d9d1c22ecf706acc51f17798d7c7dbc710ab40/assets/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  cname: status.koj.co
+  logoUrl: https://avatars3.githubusercontent.com/u/65495851?s=88&v=4
+  name: Koj Status
