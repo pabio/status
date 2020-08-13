@@ -14,11 +14,11 @@ Live status: <!--live status--> **🟩 All systems operational**
 
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [Koj.co](https://koj.co) | 🟩 Up | [koj-co.yml](https://github.com/koj-co/status/commits/master/history/koj-co.yml) | <img alt="Response time graph" src="./graphs/koj-co.png" height="20"> 311ms | 100.00%
-| [Koj Analytics](https://analytics.koj.co) | 🟩 Up | [koj-analytics.yml](https://github.com/koj-co/status/commits/master/history/koj-analytics.yml) | <img alt="Response time graph" src="./graphs/koj-analytics.png" height="20"> 430ms | 100.00%
-| [Koj API](https://api.koj.co) | 🟩 Up | [koj-api.yml](https://github.com/koj-co/status/commits/master/history/koj-api.yml) | <img alt="Response time graph" src="./graphs/koj-api.png" height="20"> 424ms | 100.00%
-| [Go.Koj](https://go.koj.co) | 🟩 Up | [go-koj.yml](https://github.com/koj-co/status/commits/master/history/go-koj.yml) | <img alt="Response time graph" src="./graphs/go-koj.png" height="20"> 264ms | 100.00%
-| [Koj CDN](https://kojcdn.com) | 🟩 Up | [koj-cdn.yml](https://github.com/koj-co/status/commits/master/history/koj-cdn.yml) | <img alt="Response time graph" src="./graphs/koj-cdn.png" height="20"> 942ms | 100.00%
+| [Koj.co](https://koj.co) | 🟩 Up | [koj-co.yml](https://github.com/koj-co/status/commits/master/history/koj-co.yml) | <img alt="Response time graph" src="./graphs/koj-co.png" height="20"> 287ms | 100.00%
+| [Koj Analytics](https://analytics.koj.co) | 🟩 Up | [koj-analytics.yml](https://github.com/koj-co/status/commits/master/history/koj-analytics.yml) | <img alt="Response time graph" src="./graphs/koj-analytics.png" height="20"> 354ms | 100.00%
+| [Koj API](https://api.koj.co) | 🟩 Up | [koj-api.yml](https://github.com/koj-co/status/commits/master/history/koj-api.yml) | <img alt="Response time graph" src="./graphs/koj-api.png" height="20"> 333ms | 100.00%
+| [Go.Koj](https://go.koj.co) | 🟩 Up | [go-koj.yml](https://github.com/koj-co/status/commits/master/history/go-koj.yml) | <img alt="Response time graph" src="./graphs/go-koj.png" height="20"> 152ms | 100.00%
+| [Koj CDN](https://kojcdn.com) | 🟩 Up | [koj-cdn.yml](https://github.com/koj-co/status/commits/master/history/koj-cdn.yml) | <img alt="Response time graph" src="./graphs/koj-cdn.png" height="20"> 770ms | 100.00%
 
 <!--end: status pages-->
 
