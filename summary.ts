@@ -6,7 +6,7 @@ import { join } from "path";
 
 export const generateSummary = async () => {
   const config = safeLoad(
-    await readFile(join(".", ".statusrc.yml"), "utf8")
+    await readFile(join(".", ".upptimerc.yml"), "utf8")
   ) as {
     sites: { name: string; url: string }[];
     owner: string;
@@ -126,7 +126,11 @@ ${pageStatuses
         page.slug
       }.yml) | <img alt="Response time graph" src="./graphs/${
         page.slug
-      }.png" height="20"> ${page.time}ms | ${page.uptime}%`
+      }.png" height="20"> ${page.time}ms | ![Uptime ${
+        page.uptime
+      }%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F${owner}%2F${repo}%2Fmaster%2Fapi%2F${
+        page.slug
+      }.json)`
   )
   .join("\n")}
 
