@@ -1,6 +1,6 @@
 activeIncidents: Active Incidents
 allSystemsOperational: All systems are operational
-incidentReport: Incident report →
+incidentReport: "Incident #$NUMBER report →"
 activeIncidentSummary: Opened at $DATE with $POSTS posts
 incidentTitle: Incident $NUMBER Details
 incidentDetails: Incident Details
@@ -16,7 +16,14 @@ pastIncidents: Past Incidents
 pastIncidentsResolved: Resolved in $MINUTES minuted with $POSTS posts
 liveStatus: Live Status
 overallUptime: Overall uptime $UPTIME%
+overallUptimeTitle: Overall uptime
 averageResponseTime: Average response time $TIMEms
+averageResponseTimeTitle: Average response
+sevelDayResponseTime: 7-day response time
+responseTimeMs: Response time (ms)
+up: Up
+down: Down
+ms: ms
 loading: Loading
 navStatus: Status
 navGitHub: GitHub

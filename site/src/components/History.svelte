@@ -4,6 +4,7 @@
   import { onMount } from "svelte";
   import config from "../data/config.json";
 
+  export let slug;
   let loading = true;
   const octokit = new Octokit({
     userAgent: config["user-agent"],
@@ -17,11 +18,11 @@
       await octokit.issues.listForRepo({
         owner,
         repo,
-        state: "open",
+        state: "closed",
         filter: "all",
         sort: "created",
         direction: "desc",
-        labels: "status",
+        labels: `status,${slug}`,
       })
     ).data;
     incidents = incidents.map((incident, index) => {
@@ -36,37 +37,33 @@
 </script>
 
 <style>
-  section {
-    margin-bottom: 2rem;
-  }
-  article {
-    background-color: #ffdce3;
-  }
-  article.good {
-    background-color: #dcffeb;
-    color: #003300;
+  h2 {
+    margin-top: 2rem;
   }
 </style>
-
-{#if !incidents.length && !loading}
-  <article class="good">✅ &nbsp; {config.i18n.allSystemsOperational}</article>
-{/if}
 
 <section>
   {#if loading}
     <Loading />
   {:else if incidents.length}
-    <h2>{config.i18n.activeIncidents}</h2>
+    <h2>{config.i18n.pastIncidents}</h2>
     {#each incidents as incident}
+      {#if incident.showHeading}
+        <h3>{new Date(incident.created_at).toLocaleDateString()}</h3>
+      {/if}
       <article class="down link">
         <div class="f">
           <div>
             <h4>{incident.title.replace('🛑', '').replace('⚠️', '').trim()}</h4>
             <div>
-              {config.i18n.activeIncidentSummary
+              {@html config.i18n.pastIncidentsResolved
                 .replace(
-                  /\$DATE/g,
-                  new Date(incident.created_at).toLocaleString()
+                  /\$MINUTES/g,
+                  (
+                    (new Date(incident.closed_at).getTime() -
+                      new Date(incident.created_at).getTime()) /
+                    60000
+                  ).toFixed(0)
                 )
                 .replace(/\$POSTS/g, incident.comments)}
             </div>
