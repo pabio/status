@@ -11,9 +11,9 @@
     "name": "Koj Analytics",
     "url": "https://analytics.koj.co",
     "slug": "koj-analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 669
+    "time": 661
   },
   {
     "name": "Koj API",
