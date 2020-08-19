@@ -1,6 +1,6 @@
 - url: https://analytics.koj.co
-- status: down
-- code: 502
-- responseTime: 259
-- lastUpdated: 2020-08-19T13:35:24.204Z
+- status: up
+- code: 200
+- responseTime: 377
+- lastUpdated: 2020-08-19T13:44:19.855Z
 - startTime: 2020-08-12T09:47:22.171Z
