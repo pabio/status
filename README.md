@@ -1,4 +1,6 @@
-Live status: <!--live status--> **🟩 All systems operational**
+# Status: <!--live status--> **🟩 All systems operational**
+
+This repository contains the open-source uptime monitor and status page for Koj, powered by [Upptime](https://upptime.js.org).
 
 [![Static Site CI](https://github.com/koj-co/status/workflows/Static%20Site%20CI/badge.svg)](https://github.com/koj-co/status/actions?query=workflow%3A%22Static+Site+CI%22)
 [![Graphs CI](https://github.com/koj-co/status/workflows/Graphs%20CI/badge.svg)](https://github.com/koj-co/status/actions?query=workflow%3A%22Graphs+CI%22)
@@ -6,7 +8,9 @@ Live status: <!--live status--> **🟩 All systems operational**
 [![Summary CI](https://github.com/koj-co/status/workflows/Summary%20CI/badge.svg)](https://github.com/koj-co/status/actions?query=workflow%3A%22Summary+CI%22)
 [![Uptime CI](https://github.com/koj-co/status/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/status/actions?query=workflow%3A%22Uptime+CI%22)
 
-This open source uptime monitor and status page is powered by [Upptime](https://upptime.js.org).
+With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/koj-co/status/issues) as incident reports, [Actions](https://github.com/koj-co/status/actions) as uptime monitors, and [Pages](https://status.koj.co) for the status page.
+
+[**Visit our status website →**](https://status.koj.co)
 
 <!--start: status pages-->
 
