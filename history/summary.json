@@ -5,7 +5,7 @@
     "slug": "koj-co",
     "status": "up",
     "uptime": "100.00",
-    "time": 288
+    "time": 285
   },
   {
     "name": "Koj Analytics",
@@ -13,7 +13,7 @@
     "slug": "koj-analytics",
     "status": "up",
     "uptime": "100.00",
-    "time": 472
+    "time": 469
   },
   {
     "name": "Koj API",
@@ -37,6 +37,6 @@
     "slug": "koj-cdn",
     "status": "up",
     "uptime": "100.00",
-    "time": 390
+    "time": 389
   }
 ]
