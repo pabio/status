@@ -1,6 +1,6 @@
 - url: https://go.koj.co
-- status: down
-- code: 503
-- responseTime: 28412
-- lastUpdated: 2020-09-15T10:52:19.812Z
+- status: up
+- code: 200
+- responseTime: 191
+- lastUpdated: 2020-09-15T11:19:23.319Z
 - startTime: 2020-08-12T09:47:25.331Z
