@@ -3,9 +3,9 @@
     "name": "Koj.co",
     "url": "https://koj.co",
     "slug": "koj-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 267
+    "time": 547
   },
   {
     "name": "Koj Analytics",
@@ -13,7 +13,7 @@
     "slug": "koj-analytics",
     "status": "up",
     "uptime": "100.00",
-    "time": 327
+    "time": 329
   },
   {
     "name": "Koj API",
@@ -21,15 +21,15 @@
     "slug": "koj-api",
     "status": "up",
     "uptime": "100.00",
-    "time": 345
+    "time": 348
   },
   {
     "name": "Go.Koj",
     "url": "https://go.koj.co",
     "slug": "go-koj",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 347
+    "time": 631
   },
   {
     "name": "Koj CDN",
@@ -37,6 +37,6 @@
     "slug": "koj-cdn",
     "status": "up",
     "uptime": "100.00",
-    "time": 370
+    "time": 372
   }
 ]
