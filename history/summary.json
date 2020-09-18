@@ -3,9 +3,9 @@
     "name": "Koj.co",
     "url": "https://koj.co",
     "slug": "koj-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 550
+    "time": 547
   },
   {
     "name": "Koj Analytics",
@@ -27,9 +27,9 @@
     "name": "Go.Koj",
     "url": "https://go.koj.co",
     "slug": "go-koj",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 628
+    "time": 624
   },
   {
     "name": "Koj CDN",
