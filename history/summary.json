@@ -1,11 +1,11 @@
 [
   {
     "name": "Koj.co",
-    "url": "https://koj.co",
+    "url": "https://koj.co/en-ch/",
     "slug": "koj-co",
-    "status": "down",
-    "uptime": "99.19",
-    "time": 545
+    "status": "up",
+    "uptime": "100.00",
+    "time": 544
   },
   {
     "name": "Koj Analytics",
@@ -25,11 +25,11 @@
   },
   {
     "name": "Go.Koj",
-    "url": "https://go.koj.co",
+    "url": "https://go.koj.co/url-shortener-uptime-monitoring-24hu9q0ir1290",
     "slug": "go-koj",
-    "status": "down",
-    "uptime": "99.19",
-    "time": 620
+    "status": "up",
+    "uptime": "100.00",
+    "time": 609
   },
   {
     "name": "Koj CDN",
