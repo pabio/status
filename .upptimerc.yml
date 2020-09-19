@@ -3,13 +3,13 @@ repo: status
 user-agent: KojBot
 sites:
   - name: Koj.co
-    url: https://koj.co
+    url: https://koj.co/en-ch/
   - name: Koj Analytics
     url: https://analytics.koj.co
   - name: Koj API
     url: https://api.koj.co
   - name: Go.Koj
-    url: https://go.koj.co
+    url: https://go.koj.co/url-shortener-uptime-monitoring-24hu9q0ir1290
   - name: Koj CDN
     url: https://kojcdn.com
 assignees:
