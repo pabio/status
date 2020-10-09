@@ -35,8 +35,8 @@
     "name": "Koj CDN",
     "url": "https://kojcdn.com",
     "slug": "koj-cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 358
+    "time": 357
   }
 ]
