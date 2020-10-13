@@ -1,13 +1,13 @@
-name: Graphs CI
+name: Update Template CI
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * 1"
   repository_dispatch:
-    types: [graphs]
+    types: [update_template]
   workflow_dispatch:
 jobs:
   release:
-    name: Generate graphs
+    name: Build
     runs-on: ubuntu-18.04
     steps:
       - name: Checkout
@@ -16,18 +16,15 @@ jobs:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT }}
       - name: Setup Node.js
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v2.1.1
         with:
           node-version: 14
-      - name: Update graphs
-        run: npx @upptime/graphs
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-          SECRET_SITE: ${{ secrets.SECRET_SITE }}
+      - name: Update template
+        run: npx update-template https://github.com/upptime/upptime
       - name: Commit new data
-        uses: stefanzweifel/git-auto-commit-action@v4.1.1
+        uses: stefanzweifel/git-auto-commit-action@v4.5.1
         with:
-          commit_message: ":bento: Update graphs [skip ci]"
+          commit_message: ":arrow_up: Update @upptime to latest"
           commit_user_name: Koj Bot
           commit_user_email: bot@koj.co
           commit_author: Koj Bot <bot@koj.co>
