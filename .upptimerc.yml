@@ -17,4 +17,7 @@ assignees:
 status-website:
   cname: status.koj.co
   logoUrl: https://avatars3.githubusercontent.com/u/65495851?s=88&v=4
+  faviconSvg: https://koj.co/favicon.svg
+  favicon: https://koj.co/favicon-32x32.png
   name: Koj Status
+  logoHref: https://koj.co
