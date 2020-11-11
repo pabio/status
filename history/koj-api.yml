@@ -1,7 +1,7 @@
 - url: https://api.koj.co
-- status: down
-- code: 521
-- responseTime: 131
-- lastUpdated: 2020-11-11T10:53:35.860Z
+- status: up
+- code: 200
+- responseTime: 249
+- lastUpdated: 2020-11-11T11:07:50.503Z
 - startTime: 2020-08-12T09:47:23.825Z
 - generator: Upptime <https://github.com/upptime/upptime>
