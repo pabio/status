@@ -1,7 +1,7 @@
 - url: https://koj.co/en-ch/
-- status: up
+- status: down
 - code: 200
-- responseTime: 264
-- lastUpdated: 2020-11-18T23:12:04.659Z
+- responseTime: 254
+- lastUpdated: 2020-11-19T06:49:13.894Z
 - startTime: 2020-08-12T09:47:20.817Z
 - generator: Upptime <https://github.com/upptime/upptime>
