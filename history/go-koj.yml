@@ -1,7 +1,7 @@
 - url: https://go.koj.co/url-shortener-uptime-monitoring-24hu9q0ir1290
-- status: up
+- status: down
 - code: 200
-- responseTime: 215
-- lastUpdated: 2020-11-18T23:12:06.241Z
+- responseTime: 189
+- lastUpdated: 2020-11-19T06:49:20.344Z
 - startTime: 2020-08-12T09:47:25.331Z
 - generator: Upptime <https://github.com/upptime/upptime>
