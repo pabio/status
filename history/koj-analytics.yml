@@ -1,7 +1,7 @@
 - url: https://analytics.koj.co
-- status: up
+- status: down
 - code: 200
-- responseTime: 271
-- lastUpdated: 2020-11-18T23:12:05.204Z
+- responseTime: 241
+- lastUpdated: 2020-11-19T06:49:16.018Z
 - startTime: 2020-08-12T09:47:22.171Z
 - generator: Upptime <https://github.com/upptime/upptime>
