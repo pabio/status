@@ -1,7 +1,7 @@
 - url: https://kojcdn.com
-- status: down
-- code: 523
-- responseTime: 2823
-- lastUpdated: 2020-11-20T16:53:36.814Z
+- status: up
+- code: 200
+- responseTime: 259
+- lastUpdated: 2020-11-20T18:48:39.511Z
 - startTime: 2020-08-12T09:47:26.631Z
 - generator: Upptime <https://github.com/upptime/upptime>
