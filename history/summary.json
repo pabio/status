@@ -11,9 +11,9 @@
     "name": "Koj Analytics",
     "url": "https://analytics.koj.co",
     "slug": "koj-analytics",
-    "status": "down",
-    "uptime": "99.94",
-    "time": 299
+    "status": "up",
+    "uptime": "100.00",
+    "time": 297
   },
   {
     "name": "Koj API",
@@ -36,7 +36,7 @@
     "url": "https://kojcdn.com",
     "slug": "koj-cdn",
     "status": "down",
-    "uptime": "99.94",
+    "uptime": "99.93",
     "time": 376
   }
 ]
