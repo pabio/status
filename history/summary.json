@@ -4,7 +4,7 @@
     "url": "https://koj.co/en-ch/",
     "slug": "koj-co",
     "status": "up",
-    "uptime": "100.00",
+    "uptime": "100.00%",
     "time": 595
   },
   {
@@ -12,31 +12,31 @@
     "url": "https://analytics.koj.co",
     "slug": "koj-analytics",
     "status": "up",
-    "uptime": "100.00",
-    "time": 298
+    "uptime": "99.91%",
+    "time": 300
   },
   {
     "name": "Koj API",
     "url": "https://api.koj.co",
     "slug": "koj-api",
     "status": "up",
-    "uptime": "100.00",
-    "time": 304
+    "uptime": "99.94%",
+    "time": 305
   },
   {
     "name": "Go.Koj",
     "url": "https://go.koj.co/url-shortener-uptime-monitoring-24hu9q0ir1290",
     "slug": "go-koj",
     "status": "up",
-    "uptime": "100.00",
-    "time": 687
+    "uptime": "100.00%",
+    "time": 688
   },
   {
     "name": "Koj CDN",
     "url": "https://kojcdn.com",
     "slug": "koj-cdn",
     "status": "up",
-    "uptime": "100.00",
-    "time": 372
+    "uptime": "99.92%",
+    "time": 374
   }
 ]
