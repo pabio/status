@@ -5,7 +5,15 @@
     "slug": "koj-co",
     "status": "up",
     "uptime": "100.00%",
-    "time": 602
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 622,
+    "timeDay": 419,
+    "timeWeek": 317,
+    "timeMonth": 349,
+    "timeYear": 622
   },
   {
     "name": "Koj Analytics",
@@ -13,7 +21,15 @@
     "slug": "koj-analytics",
     "status": "up",
     "uptime": "99.92%",
-    "time": 293
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.92%",
+    "time": 307,
+    "timeDay": 361,
+    "timeWeek": 311,
+    "timeMonth": 287,
+    "timeYear": 307
   },
   {
     "name": "Koj API",
@@ -21,7 +37,15 @@
     "slug": "koj-api",
     "status": "up",
     "uptime": "99.95%",
-    "time": 304
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.95%",
+    "time": 311,
+    "timeDay": 356,
+    "timeWeek": 318,
+    "timeMonth": 308,
+    "timeYear": 311
   },
   {
     "name": "Go.Koj",
@@ -29,7 +53,15 @@
     "slug": "go-koj",
     "status": "up",
     "uptime": "100.00%",
-    "time": 599
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 620,
+    "timeDay": 508,
+    "timeWeek": 400,
+    "timeMonth": 344,
+    "timeYear": 620
   },
   {
     "name": "Koj CDN",
@@ -37,6 +69,14 @@
     "slug": "koj-cdn",
     "status": "up",
     "uptime": "99.93%",
-    "time": 373
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.93%",
+    "time": 382,
+    "timeDay": 409,
+    "timeWeek": 382,
+    "timeMonth": 460,
+    "timeYear": 382
   }
 ]
