@@ -2,6 +2,7 @@
   {
     "name": "Koj.co",
     "url": "https://koj.co/en-ch/",
+    "icon": "https://favicons.githubusercontent.com/koj.co",
     "slug": "koj-co",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 417,
-    "timeDay": 377,
-    "timeWeek": 320,
+    "time": 416,
+    "timeDay": 375,
+    "timeWeek": 338,
     "timeMonth": 345,
-    "timeYear": 417
+    "timeYear": 416,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Koj Analytics",
     "url": "https://analytics.koj.co",
+    "icon": "https://favicons.githubusercontent.com/analytics.koj.co",
     "slug": "koj-analytics",
     "status": "up",
     "uptime": "99.92%",
@@ -26,14 +29,19 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.92%",
     "time": 372,
-    "timeDay": 388,
-    "timeWeek": 315,
-    "timeMonth": 287,
-    "timeYear": 372
+    "timeDay": 364,
+    "timeWeek": 332,
+    "timeMonth": 290,
+    "timeYear": 372,
+    "dailyMinutesDown": {
+      "2020-11-20": 111,
+      "2020-11-11": 22
+    }
   },
   {
     "name": "Koj API",
     "url": "https://api.koj.co",
+    "icon": "https://favicons.githubusercontent.com/api.koj.co",
     "slug": "koj-api",
     "status": "up",
     "uptime": "99.95%",
@@ -41,15 +49,19 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.95%",
-    "time": 328,
-    "timeDay": 370,
-    "timeWeek": 316,
-    "timeMonth": 307,
-    "timeYear": 328
+    "time": 329,
+    "timeDay": 604,
+    "timeWeek": 364,
+    "timeMonth": 317,
+    "timeYear": 329,
+    "dailyMinutesDown": {
+      "2020-11-20": 89
+    }
   },
   {
     "name": "Go.Koj",
     "url": "https://go.koj.co/url-shortener-uptime-monitoring-24hu9q0ir1290",
+    "icon": "https://favicons.githubusercontent.com/go.koj.co",
     "slug": "go-koj",
     "status": "up",
     "uptime": "100.00%",
@@ -58,14 +70,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 434,
-    "timeDay": 470,
-    "timeWeek": 416,
-    "timeMonth": 347,
-    "timeYear": 434
+    "timeDay": 460,
+    "timeWeek": 432,
+    "timeMonth": 352,
+    "timeYear": 434,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Koj CDN",
     "url": "https://kojcdn.com",
+    "icon": "https://favicons.githubusercontent.com/kojcdn.com",
     "slug": "koj-cdn",
     "status": "up",
     "uptime": "99.93%",
@@ -74,9 +88,12 @@
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.93%",
     "time": 381,
-    "timeDay": 385,
-    "timeWeek": 335,
-    "timeMonth": 460,
-    "timeYear": 381
+    "timeDay": 426,
+    "timeWeek": 356,
+    "timeMonth": 464,
+    "timeYear": 381,
+    "dailyMinutesDown": {
+      "2020-11-20": 115
+    }
   }
 ]
