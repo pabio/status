@@ -50,9 +50,9 @@
     "url": "https://api.koj.co",
     "icon": "https://favicons.githubusercontent.com/api.koj.co",
     "slug": "koj-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -62,6 +62,7 @@
     "timeMonth": 284,
     "timeYear": 326,
     "dailyMinutesDown": {
+      "2021-03-12": 0,
       "2020-11-20": 89
     }
   },
