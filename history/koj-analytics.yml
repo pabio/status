@@ -1,7 +1,7 @@
 url: https://analytics.koj.co
-status: down
-code: 502
-responseTime: 10631
-lastUpdated: 2021-04-06T09:20:42.531Z
+status: up
+code: 200
+responseTime: 238
+lastUpdated: 2021-04-06T09:35:58.303Z
 startTime: Wed Aug 12 2020 09:47:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
