@@ -4,8 +4,6 @@ user-agent: KojBot
 sites:
   - name: Koj.co
     url: https://koj.co/en-ch/
-  - name: Koj Analytics
-    url: https://analytics.koj.co
   - name: Koj API
     url: https://api.koj.co
   - name: Go.Koj
