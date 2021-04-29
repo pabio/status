@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 409,
-    "timeDay": 373,
-    "timeWeek": 408,
-    "timeMonth": 399,
+    "timeDay": 463,
+    "timeWeek": 410,
+    "timeMonth": 401,
     "timeYear": 409,
     "dailyMinutesDown": {}
   },
@@ -23,24 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/api.koj.co",
     "slug": "koj-api",
     "status": "up",
-    "uptime": "98.35%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.35%",
-    "time": 359,
-    "timeDay": 585,
-    "timeWeek": 660,
-    "timeMonth": 642,
-    "timeYear": 359,
-    "dailyMinutesDown": {
-      "2021-03-16": 1186,
-      "2021-03-15": 1440,
-      "2021-03-14": 1440,
-      "2021-03-13": 1440,
-      "2021-03-12": 542,
-      "2020-11-20": 89
-    }
+    "uptimeYear": "100.00%",
+    "time": 360,
+    "timeDay": 702,
+    "timeWeek": 661,
+    "timeMonth": 648,
+    "timeYear": 360,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Go.Koj",
@@ -54,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 410,
-    "timeDay": 341,
-    "timeWeek": 419,
+    "timeDay": 428,
+    "timeWeek": 417,
     "timeMonth": 432,
     "timeYear": 410,
     "dailyMinutesDown": {}
@@ -66,18 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/kojcdn.com",
     "slug": "koj-cdn",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 359,
-    "timeDay": 284,
-    "timeWeek": 371,
-    "timeMonth": 370,
-    "timeYear": 359,
-    "dailyMinutesDown": {
-      "2020-11-20": 115
-    }
+    "uptimeYear": "100.00%",
+    "time": 360,
+    "timeDay": 405,
+    "timeWeek": 360,
+    "timeMonth": 374,
+    "timeYear": 360,
+    "dailyMinutesDown": {}
   }
 ]
