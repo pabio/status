@@ -22,19 +22,19 @@
     "url": "https://api.koj.co",
     "icon": "https://favicons.githubusercontent.com/api.koj.co",
     "slug": "koj-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "96.87%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.99%",
-    "time": 372,
-    "timeDay": 508,
-    "timeWeek": 592,
-    "timeMonth": 617,
-    "timeYear": 372,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.25%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.98%",
+    "time": 373,
+    "timeDay": 507,
+    "timeWeek": 588,
+    "timeMonth": 614,
+    "timeYear": 373,
     "dailyMinutesDown": {
-      "2021-04-30": 46
+      "2021-04-30": 69
     }
   },
   {
