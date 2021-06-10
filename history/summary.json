@@ -63,17 +63,19 @@
     "url": "https://kojcdn.com",
     "icon": "https://favicons.githubusercontent.com/kojcdn.com",
     "slug": "koj-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 362,
-    "timeDay": 229,
-    "timeWeek": 431,
-    "timeMonth": 352,
+    "timeDay": 235,
+    "timeWeek": 407,
+    "timeMonth": 348,
     "timeYear": 362,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-10": 0
+    }
   }
 ]
